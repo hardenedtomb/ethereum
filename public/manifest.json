@@ -1,0 +1,8 @@
+{
+  "short_name": "ETH - HT",
+  "name": "ethereum - hardened tomb",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
