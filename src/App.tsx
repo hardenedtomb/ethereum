@@ -1,5 +1,8 @@
 import { ethers } from "ethers";
 import { useState } from "react";
+import { CryptoAccount } from "@keystonehq/bc-ur-registry";
+
+console.log(CryptoAccount);
 
 export default function App() { return <><Header /><Tools /></> }
 
